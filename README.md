@@ -6,8 +6,7 @@
 
 - 🖥️ Computer Engineering udergraduate Faculty of Engineering University of Ruhuna
 - 📫 How to reach me **dadilukshan@gmail.com**
-- <a href="https://dilukshan-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">🌀 My Portfolio</a>
-
+- 🌀 My Portfolio **https://dilukshan-portfolio.vercel.app/**
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilukshana&label=Profile%20views&color=0e75b6&style=flat" alt="dilukshana" /> </p>
