@@ -16,7 +16,7 @@
 -->
 ---
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/dilukshan-abenayaka" target="blank">
     <img align="center" src="https://github.com/DilukshanA/icon-pack/blob/main/LinkedIn.png" alt="dilukshan-abenayaka" height="50" width="50"/>
@@ -25,7 +25,7 @@
   <a href="https://medium.com/@dadilukshan" target="blank">
     <img align="center" src="https://github.com/DilukshanA/icon-pack/blob/main/medium.png" alt="@dadilukshan" height="55" width="55"/>
   </a>
-</p>
+</p> -->
 
 
 
