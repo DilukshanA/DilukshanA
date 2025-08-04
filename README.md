@@ -2,7 +2,7 @@
 <h3 align="center">Passionate About Web and Mobile Applications Development</h3>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilukshan+Abenayaka" alt="Typing SVG" /></a> -->
 
-![snake gif](https://github.com/DilukshanA/DilukshanA/blob/output/github-snake-dark.svg)
+
 
 <br>
 <br>
@@ -87,6 +87,10 @@
     <td align="center"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/></td>
   </tr>
 </table>
+
+---
+
+![snake gif](https://github.com/DilukshanA/DilukshanA/blob/output/github-snake-dark.svg)
 
 ---
 
