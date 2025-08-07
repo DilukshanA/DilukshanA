@@ -68,7 +68,7 @@
   </a>
   &hairsp;
   <a href=https://tailwindcss.com >
-    <img src=./stack/nextjs_color.png width=22 height=22 />
+    <img src=./stack/nextjs_color.png alt=nextjs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://vuejs.org >
@@ -81,6 +81,10 @@
   &hairsp;
   <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
     <img src=./stack/tailwind_css.png alt=javascript width=30 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
+    <img src=./stack/material_ui.png alt=javascript width=30 height=26 />
   </a>
   &hairsp;
   <a href=https://firebase.google.com >
@@ -103,31 +107,63 @@
 <div align=center >
   <img height=32 width=0 />
   <a href=https://nextjs.org >
-    <img src=./stack/nextdotjs.svg alt=nextjs width=22 height=22 />
+    <img src=./stack/expressjs_white.png alt=nextjs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://linux.org >
-    <img src=./stack/linux.svg alt=linux width=22 height=22 />
+    <img src=./stack/node_js.png alt=linux width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.figma.com >
-    <img src=./stack/figma.svg alt=figma width=22 height=22 />
+    <img src=./stack/spring_boot.png alt=figma width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.gnu.org/software/emacs/ >
-    <img src=./stack/gnuemacs.svg alt=emacs width=22 height=22 />
+    <img src=./stack/MySQL.png alt=emacs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://ubuntu.com >
-    <img src=./stack/ubuntu.svg alt=ubuntu width=22 height=22 />
+    <img src=./stack/PostgresSQL.png alt=ubuntu width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://svelte.dev >
-    <img src=./stack/svelte.svg alt=svelte width=22 height=22 />
+    <img src=./stack/docker.png alt=svelte width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://flutter.dev >
-    <img src=./stack/flutter.svg alt=flutter width=22 height=22 />
+    <img src=./stack/Jenkins.png alt=flutter width=22 height=22 />
+  </a>
+</div>
+
+<!-- Tech Stack Icons (Row 3) -->
+<div align=center >
+  <img height=32 width=0 />
+  <a href=https://nextjs.org >
+    <img src=./stack/react_vite.png alt=nextjs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://linux.org >
+    <img src=./stack/Redux.png alt=linux width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://www.figma.com >
+    <img src=./stack/tanstack_query.png alt=figma width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://www.gnu.org/software/emacs/ >
+    <img src=./stack/nodemailer.png alt=emacs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://ubuntu.com >
+    <img src=./stack/framer_motion.png alt=ubuntu width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://svelte.dev >
+    <img src=./stack/c++.png alt=svelte width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://flutter.dev >
+    <img src=./stack/Figma.png alt=flutter width=22 height=22 />
   </a>
 </div>
 <div align=center >
