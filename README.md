@@ -94,7 +94,7 @@
 
 ---
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 ### 🌐 Web Applications
 
@@ -137,4 +137,4 @@ A CI/CD pipeline for a Node.js application using Docker and Jenkins, integrated 
 - 🐳 **Dockerized Node.js app** for containerized deployment  
 - 🔄 **Jenkins pipeline** for Triggers on push to main via a GitHub Webhook, Builds a Docker image, Pushes the image to Docker Hub 
 - 🔗 **GitHub Webhook** triggers automatic builds  
-- 📂 **Repository:** [GitHub](https://github.com/DilukshanA/ci-cd-nodeapp.git) 
+- 📂 **Repository:** [GitHub](https://github.com/DilukshanA/ci-cd-nodeapp.git)  -->
