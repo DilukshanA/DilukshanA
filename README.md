@@ -59,6 +59,81 @@
 </p>
 -->
 
+<!-- Tech Stack Icons (Row 1) -->
+<div align="center">
+  <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
+  <img height=32 width=0 />
+  <a href=https://supabase.com >
+    <img src=./stack/supabase.svg alt=supabase width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://tailwindcss.com >
+    <img src=./stack/tailwindcss.svg alt=tailwind width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://vuejs.org >
+    <img src=./stack/vuedotjs.svg alt=vuejs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://nuxtjs.org >
+    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
+    <img src=./stack/javascript.svg alt=javascript width=30 height=26 />
+  </a>
+  &hairsp;
+  <a href=https://firebase.google.com >
+    <img src=./stack/firebase.svg alt=firebase width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://astro.build >
+    <img src=./stack/astro.svg alt=astro width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://quasar.dev >
+    <img src=./stack/quasar.svg alt=quasar width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://vuetifyjs.com/en >
+    <img src=./stack/vuetify.svg alt=vuetify width=22 height=22 />
+  </a>
+</div>
+<!-- Tech Stack Icons (Row 2) -->
+<div align=center >
+  <img height=32 width=0 />
+  <a href=https://nextjs.org >
+    <img src=./stack/nextdotjs.svg alt=nextjs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://linux.org >
+    <img src=./stack/linux.svg alt=linux width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://www.figma.com >
+    <img src=./stack/figma.svg alt=figma width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://www.gnu.org/software/emacs/ >
+    <img src=./stack/gnuemacs.svg alt=emacs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://ubuntu.com >
+    <img src=./stack/ubuntu.svg alt=ubuntu width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://svelte.dev >
+    <img src=./stack/svelte.svg alt=svelte width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://flutter.dev >
+    <img src=./stack/flutter.svg alt=flutter width=22 height=22 />
+  </a>
+</div>
+<div align=center >
+----------------------
+</div>
+
 <h3 align="center">Languages and Tools</h3>
 
 <table align="center">
