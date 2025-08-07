@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dilukshan Abenayaka</h1>
+<!-- <h1 align="center">Hi 👋, I'm Dilukshan Abenayaka</h1> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilukshan+Abenayaka" alt="Typing SVG" /></a>
+
 <h3 align="center">Passionate About Web and Mobile Applications Development</h3>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilukshan+Abenayaka" alt="Typing SVG" /></a> -->
 
@@ -167,7 +169,7 @@
 <div align=center >
   <img height=32 width=0 />
   <a href=https://nextjs.org >
-    <img src=./stack/Figma.pngalt=nextjs width=32 height=32 />
+    <img src=./stack/Figma.png alt=nextjs width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://linux.org >
@@ -178,13 +180,6 @@
     <img src=./stack/gitlab.png alt=figma width=32 height=32 />
   </a>
 </div>
-
-<div align=center >
-----------------------
-</div>
-
-
-
 
 
 <!-- <h3 align="center">Languages and Tools</h3> -->
