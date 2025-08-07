@@ -173,11 +173,11 @@
   </a>
   &hairsp;
   <a href=https://linux.org >
-    <img src=./stack/github.png alt=linux width=32 height=32 />
+    <img src=./stack/github_1.png alt=linux width=30 height=30 />
   </a>
   &hairsp;
   <a href=https://www.figma.com >
-    <img src=./stack/gitlab.png alt=figma width=32 height=32 />
+    <img src=./stack/gitlab.png alt=figma width=28 height=28 />
   </a>
 </div>
 
