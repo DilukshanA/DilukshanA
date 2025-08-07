@@ -159,10 +159,6 @@
   <a href=https://ubuntu.com >
     <img src=./stack/framer_motion.png alt=ubuntu width=32 height=32 />
   </a>
-  &hairsp;
-  <a href=https://svelte.dev >
-    <img src=./stack/c++.png alt=svelte width=32 height=32 />
-  </a>
 </div>
 
 <!-- Tech Stack Icons (Row 4) -->
@@ -172,13 +168,29 @@
     <img src=./stack/Figma.png alt=nextjs width=32 height=32 />
   </a>
   &hairsp;
-  <a href=https://linux.org >
-    <img src=./stack/github_1.png alt=linux width=30 height=30 />
+  <a href=https://svelte.dev >
+    <img src=./stack/c++.png alt=svelte width=32 height=32 />
   </a>
   &hairsp;
   <a href=https://www.figma.com >
     <img src=./stack/gitlab.png alt=figma width=28 height=28 />
   </a>
+</div>
+
+<!-- Tech Stack Icons (Row 5) -->
+<div align=center >
+  <img height=32 width=0 />
+  <a href=https://nextjs.org >
+    <img src=./stack/github_1.png alt=nextjs width=32 height=32 />
+  </a>
+  <!-- &hairsp;
+  <a href=https://svelte.dev >
+    <img src=./stack/c++.png alt=svelte width=32 height=32 />
+  </a>
+  &hairsp;
+  <a href=https://www.figma.com >
+    <img src=./stack/gitlab.png alt=figma width=28 height=28 />
+  </a> -->
 </div>
 
 
