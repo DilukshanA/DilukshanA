@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi 👋, I'm Dilukshan Abenayaka</h1> -->
-<h1 align="center">Hi 👋, I'm Dilukshan Abenayaka 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Dilukshan Abeynayaka 👨‍💻</h1>
 
 <!-- <h3 align="center">Passionate About Web and Mobile Applications Development</h3> -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilukshan+Abenayaka" alt="Typing SVG" /></a> -->
