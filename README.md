@@ -193,6 +193,37 @@
   </a> -->
 </div>
 
+### - Tools/Interests 🔗
+<p align="center">
+  <a href="#"><img src="./stack/reactjs.png" alt="ReactJS" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/nextjs_color.png" alt="Next.js" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/javascript.png" alt="JavaScript" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/typescript.png" alt="TypeScript" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/tailwind_css.png" alt="Tailwind CSS" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/material_ui.png" alt="Material UI" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/flutter.png" alt="Flutter" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/dart.png" alt="Dart" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/firebase.png" alt="Firebase" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/mongo_db.png" alt="MongoDB" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/expressjs_white.png" alt="ExpressJS" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/node_js.png" alt="Node.js" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/spring_boot.png" alt="Spring Boot" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/MySQL.png" alt="MySQL" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/PostgresSQL.png" alt="PostgreSQL" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/docker.png" alt="Docker" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/Jenkins.png" alt="Jenkins" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/react_vite.png" alt="React + Vite" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/Redux.png" alt="Redux" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/tanstack_query.png" alt="TanStack Query" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/nodemailer.png" alt="Nodemailer" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/framer_motion.png" alt="Framer Motion" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/c++.png" alt="C++" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/Figma.png" alt="Figma" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/gitlab.png" alt="GitLab" width="32px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/github_1.png" alt="GitHub" width="32px"></a>
+</p>
+
+
 
 <!-- <h3 align="center">Languages and Tools</h3> -->
 
