@@ -72,7 +72,7 @@
   <a href="#"><img src="./stack/dart.png" alt="Dart" width="40px" height="40px"></a> &nbsp;&nbsp;
   <a href="#"><img src="./stack/firebase.png" alt="Firebase" width="40px" height="40px"></a> &nbsp;&nbsp;
   <a href="#"><img src="./stack/mongo_db.png" alt="MongoDB" width="40px" height="40px"></a> &nbsp;&nbsp;
-  <a href="#"><img src="./stack/expressjs_white.png" alt="ExpressJS" width="40px" height="40px"></a> &nbsp;&nbsp;
+  <a href="#"><img src="./stack/expressjs_white.png" alt="ExpressJS" width="36px" height="36px"></a> &nbsp;&nbsp;
   <a href="#"><img src="./stack/node_js.png" alt="Node.js" width="40px" height="40px"></a> &nbsp;&nbsp;
   <a href="#"><img src="./stack/spring_boot.png" alt="Spring Boot" width="40px" height="40px"></a> &nbsp;&nbsp;
   <a href="#"><img src="./stack/MySQL.png" alt="MySQL" width="40px" height="40px"></a> &nbsp;&nbsp;
