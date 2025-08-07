@@ -107,7 +107,7 @@
 <div align=center >
   <img height=32 width=0 />
   <a href=https://nextjs.org >
-    <img src=./stack/expressjs_white.png alt=nextjs width=32 height=32 />
+    <img src=./stack/expressjs_white.png alt=nextjs width=28 height=28 />
   </a>
   &hairsp;
   <a href=https://linux.org >
@@ -161,9 +161,21 @@
   <a href=https://svelte.dev >
     <img src=./stack/c++.png alt=svelte width=32 height=32 />
   </a>
+</div>
+
+<!-- Tech Stack Icons (Row 4) -->
+<div align=center >
+  <img height=32 width=0 />
+  <a href=https://nextjs.org >
+    <img src=./stack/Figma.pngalt=nextjs width=32 height=32 />
+  </a>
   &hairsp;
-  <a href=https://flutter.dev >
-    <img src=./stack/Figma.png alt=flutter width=32 height=32 />
+  <a href=https://linux.org >
+    <img src=./stack/github.png alt=linux width=32 height=32 />
+  </a>
+  &hairsp;
+  <a href=https://www.figma.com >
+    <img src=./stack/gitlab.png alt=figma width=32 height=32 />
   </a>
 </div>
 
@@ -175,9 +187,9 @@
 
 
 
-<h3 align="center">Languages and Tools</h3>
+<!-- <h3 align="center">Languages and Tools</h3> -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center"><a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/DilukshanA/icon-pack/refs/heads/main/React-Light.svg" alt="React" width="50" height="50"/></a></td>
     <td align="center"><a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/DilukshanA/icon-pack/refs/heads/main/NextJS-Light.svg" alt="Next.js" width="50" height="50"/></a></td>
@@ -202,7 +214,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/DilukshanA/icon-pack/refs/heads/main/CPP.svg" alt="c" width="50" height="50"/></td>
     <td align="center"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/></td>
   </tr>
-</table>
+</table> -->
 
 ---
 
