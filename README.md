@@ -7,8 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Passionate+About+Web+%26+Mobile+Applications+Development;Full-Stack+Enthusiast+%F0%9F%92%BB%F0%9F%8C%90" alt="Typing SVG" />
 </p>
-
-
 <br>
 <br>
 
