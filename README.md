@@ -181,7 +181,7 @@
 <div align=center >
   <img height=32 width=0 />
   <a href=https://nextjs.org >
-    <img src=./stack/github_1.png alt=nextjs width=32 height=32 />
+    <img src=./stack/github_1.png alt=nextjs width=28 height=28 />
   </a>
   <!-- &hairsp;
   <a href=https://svelte.dev >
