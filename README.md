@@ -12,6 +12,10 @@
 - 📫 How to reach me **dadilukshan@gmail.com**
 - 🌀 My Portfolio **https://dilukshan-portfolio.vercel.app/**
 
+[![Email](https://img.shields.io/badge/Email-dadilukshan%40gmail.com-lightblue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadilukshan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightblue?style=for-the-badge&logo=vercel&logoColor=white)](https://dilukshan-portfolio.vercel.app/)
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilukshana&label=Profile%20views&color=0e75b6&style=flat" alt="dilukshana" /> </p>
 -->
