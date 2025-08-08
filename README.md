@@ -138,9 +138,10 @@
 
 ## - Find me around the web 🌎
 <p align="center">
-[![Email](https://img.shields.io/badge/📫%20Email- dadilukshan%40gmail.com-3178C6?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white)](mailto:dadilukshan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌀%20Portfolio-Visit-4caf50?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white)](https://dilukshan-portfolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/📫%20Email-dadilukshan%40gmail.com-3178C6?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white)](mailto:dadilukshan@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/🌀%20Portfolio-Visit-4caf50?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white)](https://dilukshan-portfolio.vercel.app/)
 </p>
+
 <!-- ## 🚀 Projects
 
 ### 🌐 Web Applications
