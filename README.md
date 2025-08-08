@@ -139,11 +139,11 @@
 ## - Find me around the web 🌎
 <p align="center">
   <a href="mailto:dadilukshan@gmail.com">
-    <img src="https://img.shields.io/badge/%20Email-dadilukshan%40gmail.com-3178C6?style=for-the-badge&labelColor=FFCA28&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/%20Email-dadilukshan%40gmail.com-3178C6?style=for-the-badge&labelColor=FC6D26&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dilukshan-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/%20Portfolio-Visit-4caf50?style=for-the-badge&labelColor=FFCA28&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%20Portfolio-Visit-4caf50?style=for-the-badge&labelColor=FC6D26&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
