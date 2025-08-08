@@ -107,6 +107,23 @@
 </a>
 </details>
 
+<details>	
+  <summary><b>📈 commits</b></summary>
+
+  <p align="center">
+    <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilukshanA&theme=github_dark" alt="Most Commit Language" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DilukshanA&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+    </a>
+  </p>
+
+</details>
+
 
 
 
