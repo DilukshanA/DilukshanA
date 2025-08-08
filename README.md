@@ -92,7 +92,7 @@
 ### - Languages 🔭
 <p align="center">
   <a target="_blank" href="https://github.com/DilukshanA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshanA&show_icons=true&theme=dracula&text_color=8b8b8b&title_color=00bfff&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="DilukshanA"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshanA&show_icons=true&theme=dracula&text_color=8b8b8b&title_color=1d4ed8&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="DilukshanA"/>
   </a>
 </p>
 
