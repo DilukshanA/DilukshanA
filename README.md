@@ -89,14 +89,13 @@
   <a href="#"><img src="./stack/github_1.png" alt="GitHub" width="40px" height="40px"></a>
 </p>
 
+<!--- Languages -->
 ### - Languages 🔭
 <p align="center">
-  <a target="_blank" href="https://github.com/DilukshanA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilukshanA&show_icons=true&theme=dracula&text_color=8b8b8b&title_color=ffffff&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="DilukshanA"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilukshanA&theme=github_dark" alt="Repos Per Language">
 </p>
 
-<!--- 2nd Section on GitHub Analytics -->
+<!--- GitHub Analytics -->
 <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/DilukshanA">
