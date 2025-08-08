@@ -104,13 +104,13 @@
 
   <p align="center">
     <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="GitHub Stats" width="45%" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="GitHub Stats" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="GitHub Profile Details" width="100%" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="GitHub Profile Details" />
     </a>
   </p>
 </details>
