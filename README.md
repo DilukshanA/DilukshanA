@@ -100,15 +100,19 @@
 
 <!--- GitHub Analytics -->
 <details>	
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<p align="center">
-  <a href="https://github.com/DilukshanA">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="Stats" width="45%" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DilukshanA">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="Profile Details" width="45%" />
-  </a>
-</p>
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+
+  <p align="center">
+    <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="GitHub Stats" width="45%" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="GitHub Profile Details" width="45%" />
+    </a>
+  </p>
 </details>
 
 <details>	
