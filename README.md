@@ -103,11 +103,10 @@
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <p align="center">
   <a href="https://github.com/DilukshanA">
-    <img style="height: 210px; width: 48%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="Dilukshan Abenayaka GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="Stats" width="45%" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DilukshanA">
-    <img style="height: 210px; width: 48%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="Dilukshan Abenayaka GitHub Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="Profile Details" width="45%" />
   </a>
 </p>
 </details>
