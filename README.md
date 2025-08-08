@@ -100,8 +100,8 @@
 <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/DilukshanA">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/DilukshanA/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Dilukshan Abenayaka GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/DilukshanA/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Dilukshan Abenayaka GitHub Stats" />
+  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/DilukshanA/github-profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Dilukshan Abenayaka GitHub Profile Details" />
+  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/DilukshanA/github-profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Dilukshan Abenayaka GitHub Stats" />
 </a>
 </details>
 
