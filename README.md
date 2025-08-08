@@ -110,7 +110,7 @@
 
   <p align="center">
     <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="GitHub Profile Details" width="45%" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DilukshanA&theme=github_dark" alt="GitHub Profile Details" width="100%" />
     </a>
   </p>
 </details>
