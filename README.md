@@ -136,10 +136,11 @@
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-dadilukshan%40gmail.com-ADD8E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadilukshan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-87CEFA?style=for-the-badge&logo=vercel&logoColor=white)](https://dilukshan-portfolio.vercel.app/)
-
-
+## - Find me around the web 🌎
+<p align="center">
+[![Email](https://img.shields.io/badge/📫%20Email-dadilukshan%40gmail.com-blue?style=for-the-badge&labelColor=000000)](mailto:dadilukshan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌀%20Portfolio-Visit-brightgreen?style=for-the-badge&labelColor=000000)](https://dilukshan-portfolio.vercel.app/)
+</p>
 <!-- ## 🚀 Projects
 
 ### 🌐 Web Applications
