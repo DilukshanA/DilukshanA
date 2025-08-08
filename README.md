@@ -101,7 +101,7 @@
 <!--- GitHub Analytics -->
 <details>	
   <summary><b>⚙️ GitHub Analytics</b></summary>
-
+<br/>
   <p align="center">
     <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DilukshanA&theme=github_dark" alt="GitHub Stats" />
@@ -117,7 +117,7 @@
 
 <details>	
   <summary><b>📈 commits</b></summary>
-
+<br/>
   <p align="center">
     <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DilukshanA&theme=github_dark" alt="Most Commit Language" />
