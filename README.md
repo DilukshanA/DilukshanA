@@ -92,8 +92,11 @@
 <!--- Languages -->
 ### - Languages 🔭
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilukshanA&theme=github_dark" alt="Repos Per Language">
+  <a href="https://github.com/DilukshanA" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DilukshanA&theme=github_dark" alt="Repos Per Language" />
+  </a>
 </p>
+
 
 <!--- GitHub Analytics -->
 <details>	
